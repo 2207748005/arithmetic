@@ -1,0 +1,7 @@
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\输出一个等腰三角形\bin\Debug\输出一个等腰三角形.exe.config
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\输出一个等腰三角形\bin\Debug\输出一个等腰三角形.exe
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\输出一个等腰三角形\bin\Debug\输出一个等腰三角形.pdb
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\输出一个等腰三角形\obj\Debug\输出一个等腰三角形.csprojAssemblyReference.cache
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\输出一个等腰三角形\obj\Debug\输出一个等腰三角形.csproj.CoreCompileInputs.cache
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\输出一个等腰三角形\obj\Debug\输出一个等腰三角形.exe
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\输出一个等腰三角形\obj\Debug\输出一个等腰三角形.pdb

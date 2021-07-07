@@ -1,0 +1,7 @@
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\用输出一个矩形\bin\Debug\用输出一个矩形.exe.config
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\用输出一个矩形\bin\Debug\用输出一个矩形.exe
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\用输出一个矩形\bin\Debug\用输出一个矩形.pdb
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\用输出一个矩形\obj\Debug\用输出一个矩形.csprojAssemblyReference.cache
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\用输出一个矩形\obj\Debug\用输出一个矩形.csproj.CoreCompileInputs.cache
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\用输出一个矩形\obj\Debug\用输出一个矩形.exe
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\用输出一个矩形\obj\Debug\用输出一个矩形.pdb

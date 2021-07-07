@@ -1,0 +1,6 @@
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\判断字符串是否对称\bin\Debug\判断字符串是否对称.exe.config
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\判断字符串是否对称\bin\Debug\判断字符串是否对称.exe
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\判断字符串是否对称\bin\Debug\判断字符串是否对称.pdb
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\判断字符串是否对称\obj\Debug\判断字符串是否对称.csproj.CoreCompileInputs.cache
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\判断字符串是否对称\obj\Debug\判断字符串是否对称.exe
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\判断字符串是否对称\obj\Debug\判断字符串是否对称.pdb

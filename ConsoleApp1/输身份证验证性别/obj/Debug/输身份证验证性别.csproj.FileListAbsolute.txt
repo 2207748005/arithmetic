@@ -1,0 +1,7 @@
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\输身份证验证性别\bin\Debug\输身份证验证性别.exe.config
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\输身份证验证性别\bin\Debug\输身份证验证性别.exe
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\输身份证验证性别\bin\Debug\输身份证验证性别.pdb
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\输身份证验证性别\obj\Debug\输身份证验证性别.csprojAssemblyReference.cache
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\输身份证验证性别\obj\Debug\输身份证验证性别.csproj.CoreCompileInputs.cache
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\输身份证验证性别\obj\Debug\输身份证验证性别.exe
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\输身份证验证性别\obj\Debug\输身份证验证性别.pdb

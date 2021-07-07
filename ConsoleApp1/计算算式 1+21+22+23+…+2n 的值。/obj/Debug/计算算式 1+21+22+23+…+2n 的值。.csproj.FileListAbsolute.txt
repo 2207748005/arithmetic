@@ -1,0 +1,7 @@
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\计算算式 1+21+22+23+…+2n 的值。\bin\Debug\计算算式 1+21+22+23+…+2n 的值。.exe.config
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\计算算式 1+21+22+23+…+2n 的值。\bin\Debug\计算算式 1+21+22+23+…+2n 的值。.exe
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\计算算式 1+21+22+23+…+2n 的值。\bin\Debug\计算算式 1+21+22+23+…+2n 的值。.pdb
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\计算算式 1+21+22+23+…+2n 的值。\obj\Debug\计算算式 1+21+22+23+…+2n 的值。.csprojAssemblyReference.cache
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\计算算式 1+21+22+23+…+2n 的值。\obj\Debug\计算算式 1+21+22+23+…+2n 的值。.csproj.CoreCompileInputs.cache
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\计算算式 1+21+22+23+…+2n 的值。\obj\Debug\计算算式 1+21+22+23+…+2n 的值。.exe
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\计算算式 1+21+22+23+…+2n 的值。\obj\Debug\计算算式 1+21+22+23+…+2n 的值。.pdb

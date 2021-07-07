@@ -1,0 +1,6 @@
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\面向对象\bin\Debug\面向对象.exe.config
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\面向对象\bin\Debug\面向对象.exe
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\面向对象\bin\Debug\面向对象.pdb
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\面向对象\obj\Debug\面向对象.csproj.CoreCompileInputs.cache
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\面向对象\obj\Debug\面向对象.exe
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\面向对象\obj\Debug\面向对象.pdb

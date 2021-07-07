@@ -1,0 +1,7 @@
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\倒序输出数字\bin\Debug\倒序输出数字.exe.config
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\倒序输出数字\bin\Debug\倒序输出数字.exe
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\倒序输出数字\bin\Debug\倒序输出数字.pdb
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\倒序输出数字\obj\Debug\倒序输出数字.csprojAssemblyReference.cache
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\倒序输出数字\obj\Debug\倒序输出数字.csproj.CoreCompileInputs.cache
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\倒序输出数字\obj\Debug\倒序输出数字.exe
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\倒序输出数字\obj\Debug\倒序输出数字.pdb

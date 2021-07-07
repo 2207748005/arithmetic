@@ -1,0 +1,7 @@
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\阶乘\bin\Debug\阶乘.exe.config
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\阶乘\bin\Debug\阶乘.exe
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\阶乘\bin\Debug\阶乘.pdb
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\阶乘\obj\Debug\阶乘.csprojAssemblyReference.cache
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\阶乘\obj\Debug\阶乘.csproj.CoreCompileInputs.cache
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\阶乘\obj\Debug\阶乘.exe
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\阶乘\obj\Debug\阶乘.pdb

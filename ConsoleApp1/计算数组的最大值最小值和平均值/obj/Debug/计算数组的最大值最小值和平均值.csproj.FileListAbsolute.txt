@@ -1,0 +1,6 @@
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\计算数组的最大值最小值和平均值\bin\Debug\计算数组的最大值最小值和平均值.exe.config
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\计算数组的最大值最小值和平均值\bin\Debug\计算数组的最大值最小值和平均值.exe
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\计算数组的最大值最小值和平均值\bin\Debug\计算数组的最大值最小值和平均值.pdb
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\计算数组的最大值最小值和平均值\obj\Debug\计算数组的最大值最小值和平均值.csproj.CoreCompileInputs.cache
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\计算数组的最大值最小值和平均值\obj\Debug\计算数组的最大值最小值和平均值.exe
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\计算数组的最大值最小值和平均值\obj\Debug\计算数组的最大值最小值和平均值.pdb

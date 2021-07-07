@@ -1,0 +1,6 @@
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\累加求和递归\bin\Debug\累加求和递归.exe.config
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\累加求和递归\bin\Debug\累加求和递归.exe
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\累加求和递归\bin\Debug\累加求和递归.pdb
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\累加求和递归\obj\Debug\累加求和递归.csproj.CoreCompileInputs.cache
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\累加求和递归\obj\Debug\累加求和递归.exe
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\累加求和递归\obj\Debug\累加求和递归.pdb

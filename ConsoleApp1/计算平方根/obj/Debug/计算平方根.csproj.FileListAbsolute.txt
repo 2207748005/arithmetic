@@ -1,0 +1,7 @@
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\计算平方根\bin\Debug\计算平方根.exe.config
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\计算平方根\bin\Debug\计算平方根.exe
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\计算平方根\bin\Debug\计算平方根.pdb
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\计算平方根\obj\Debug\计算平方根.csproj.CoreCompileInputs.cache
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\计算平方根\obj\Debug\计算平方根.exe
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\计算平方根\obj\Debug\计算平方根.pdb
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\计算平方根\obj\Debug\计算平方根.csprojAssemblyReference.cache

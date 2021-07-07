@@ -1,0 +1,7 @@
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\类\bin\Debug\类.exe.config
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\类\bin\Debug\类.exe
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\类\bin\Debug\类.pdb
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\类\obj\Debug\类.csprojAssemblyReference.cache
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\类\obj\Debug\类.csproj.CoreCompileInputs.cache
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\类\obj\Debug\类.exe
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\类\obj\Debug\类.pdb

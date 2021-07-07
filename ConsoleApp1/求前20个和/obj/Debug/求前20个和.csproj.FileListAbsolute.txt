@@ -1,0 +1,7 @@
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\求前20个和\bin\Debug\求前20个和.exe.config
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\求前20个和\bin\Debug\求前20个和.exe
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\求前20个和\bin\Debug\求前20个和.pdb
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\求前20个和\obj\Debug\求前20个和.csproj.CoreCompileInputs.cache
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\求前20个和\obj\Debug\求前20个和.exe
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\求前20个和\obj\Debug\求前20个和.pdb
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\求前20个和\obj\Debug\求前20个和.csprojAssemblyReference.cache

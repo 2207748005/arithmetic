@@ -1,0 +1,6 @@
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\计算珠穆朗玛峰高度\bin\Debug\计算珠穆朗玛峰高度.exe.config
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\计算珠穆朗玛峰高度\bin\Debug\计算珠穆朗玛峰高度.exe
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\计算珠穆朗玛峰高度\bin\Debug\计算珠穆朗玛峰高度.pdb
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\计算珠穆朗玛峰高度\obj\Debug\计算珠穆朗玛峰高度.csproj.CoreCompileInputs.cache
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\计算珠穆朗玛峰高度\obj\Debug\计算珠穆朗玛峰高度.exe
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\计算珠穆朗玛峰高度\obj\Debug\计算珠穆朗玛峰高度.pdb

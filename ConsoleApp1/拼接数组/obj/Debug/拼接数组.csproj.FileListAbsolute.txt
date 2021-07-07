@@ -1,0 +1,6 @@
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\拼接数组\bin\Debug\拼接数组.exe.config
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\拼接数组\bin\Debug\拼接数组.exe
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\拼接数组\bin\Debug\拼接数组.pdb
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\拼接数组\obj\Debug\拼接数组.csproj.CoreCompileInputs.cache
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\拼接数组\obj\Debug\拼接数组.exe
+F:\技能抽查复习\C#模块\算法题\ConsoleApp1\拼接数组\obj\Debug\拼接数组.pdb
