@@ -26,8 +26,11 @@ namespace 类
             shapes[0] = triangle;
             shapes[1] = rectangle;
             shapes[2] = circle;
-            
-            
+            for (int i = 0; i < shapes.Length; i++)
+            {
+                Console.WriteLine(shapes[i].calArea());
+            }
+
         }
     }
 

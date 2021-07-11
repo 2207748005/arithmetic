@@ -26,7 +26,6 @@ namespace 用输出一个矩形
                     {
                         Console.Write(" ");
                     }
-
                 }
                 Console.WriteLine("");
             }

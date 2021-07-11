@@ -1,0 +1,6 @@
+F:\技能抽查复习\C#模块\算法题\web\WebApplication2\Models\bin\Debug\Models.dll
+F:\技能抽查复习\C#模块\算法题\web\WebApplication2\Models\bin\Debug\Models.pdb
+F:\技能抽查复习\C#模块\算法题\web\WebApplication2\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+F:\技能抽查复习\C#模块\算法题\web\WebApplication2\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+F:\技能抽查复习\C#模块\算法题\web\WebApplication2\Models\obj\Debug\Models.dll
+F:\技能抽查复习\C#模块\算法题\web\WebApplication2\Models\obj\Debug\Models.pdb

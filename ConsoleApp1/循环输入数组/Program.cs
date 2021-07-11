@@ -11,12 +11,18 @@ namespace 循环输入数组
         static void Main(string[] args)
         {
             int[] nums = new int[3];
+            int max = 0;
             for (int i = 0; i < 3; i++)
             {
                 Console.WriteLine("请输入数字");
                 nums[i] = int.Parse(Console.ReadLine());
+                if (max<nums[i])
+                {
+                    max = nums[i];
+                }
             }
-            Console.WriteLine("最大数为："+nums.Max());
+            
+            Console.WriteLine("最大数为："+max);
         }
     }
 }

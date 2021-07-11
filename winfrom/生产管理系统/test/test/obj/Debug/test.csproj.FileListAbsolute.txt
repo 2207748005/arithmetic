@@ -1,0 +1,13 @@
+F:\技能抽查复习\C#模块\算法题\winfrom\生产管理系统\test\test\bin\Debug\test.exe.config
+F:\技能抽查复习\C#模块\算法题\winfrom\生产管理系统\test\test\bin\Debug\test.exe
+F:\技能抽查复习\C#模块\算法题\winfrom\生产管理系统\test\test\bin\Debug\test.pdb
+F:\技能抽查复习\C#模块\算法题\winfrom\生产管理系统\test\test\obj\Debug\test.Form1.resources
+F:\技能抽查复习\C#模块\算法题\winfrom\生产管理系统\test\test\obj\Debug\test.Properties.Resources.resources
+F:\技能抽查复习\C#模块\算法题\winfrom\生产管理系统\test\test\obj\Debug\test.csproj.GenerateResource.cache
+F:\技能抽查复习\C#模块\算法题\winfrom\生产管理系统\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+F:\技能抽查复习\C#模块\算法题\winfrom\生产管理系统\test\test\obj\Debug\test.exe
+F:\技能抽查复习\C#模块\算法题\winfrom\生产管理系统\test\test\obj\Debug\test.pdb
+F:\技能抽查复习\C#模块\算法题\winfrom\生产管理系统\test\test\obj\Debug\test.chlid.resources
+F:\技能抽查复习\C#模块\算法题\winfrom\生产管理系统\test\test\obj\Debug\test.parent.resources
+F:\技能抽查复习\C#模块\算法题\winfrom\生产管理系统\test\test\obj\Debug\test.csproj.AssemblyReference.cache
+F:\技能抽查复习\C#模块\算法题\winfrom\生产管理系统\test\test\obj\Debug\test.Login.resources

@@ -79,6 +79,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "校园歌手", "校园歌�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "电视机", "电视机\电视机.csproj", "{F8DF2BCC-09FF-47C4-A27A-82849A2E2DC8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "输入一批学生成绩以-1结束！", "输入一批学生成绩以-1结束！\输入一批学生成绩以-1结束！.csproj", "{83F7A000-3518-4714-88D5-ABB7242D3851}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "输入小写123转大写一二三", "输入小写123转大写一二三\输入小写123转大写一二三.csproj", "{BB0AB08D-FCB3-48B5-9CC3-9301FC81715A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -237,6 +241,14 @@ Global
 		{F8DF2BCC-09FF-47C4-A27A-82849A2E2DC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8DF2BCC-09FF-47C4-A27A-82849A2E2DC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8DF2BCC-09FF-47C4-A27A-82849A2E2DC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83F7A000-3518-4714-88D5-ABB7242D3851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83F7A000-3518-4714-88D5-ABB7242D3851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83F7A000-3518-4714-88D5-ABB7242D3851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83F7A000-3518-4714-88D5-ABB7242D3851}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB0AB08D-FCB3-48B5-9CC3-9301FC81715A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0AB08D-FCB3-48B5-9CC3-9301FC81715A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0AB08D-FCB3-48B5-9CC3-9301FC81715A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0AB08D-FCB3-48B5-9CC3-9301FC81715A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
